@@ -9,7 +9,7 @@ function Projects() {
     {
       image: "/0-C.png",
       projectName: "CrowdFunding Dapp",
-      projectLink: "#",
+      projectLink: "https://crowd-funding-dapp-delta.vercel.app/",
       projectDescription:
         "A Web3 crowdfunding Dapp is a decentralized application built on blockchain technology that allows users to create, view, and donate to crowdfunding campaigns directly through the blockchain. The Dapp interacts with a smart contract deployed to the blockchain and uses a frontend UI to interact with users.",
       projectTech: [
@@ -24,7 +24,7 @@ function Projects() {
       ],
       projectExternalLinks: {
         github: "https://github.com/mr-anz/crowdFunding-Dapp",
-        externalLink: "",
+        externalLink: "https://crowd-funding-dapp-delta.vercel.app/",
       },
     },
     {
@@ -51,7 +51,7 @@ function Projects() {
     {
       image: "/0-NM.png",
       projectName: "NFT Marketplace",
-      projectLink: "#",
+      projectLink: "https://nftmarketplace-flame.vercel.app/",
       projectDescription:
         "It is ablockchain-based platform for buying, selling, and discovering unique NFTs. Find one-of-a-kind NFTs from around the world, create and list your own, and receive instant payments in cryptocurrency. ",
       projectTech: [
@@ -66,7 +66,7 @@ function Projects() {
       ],
       projectExternalLinks: {
         github: "https://github.com/mr-anz/0-NFTMarketplace",
-        externalLink: "",
+        externalLink: "https://nftmarketplace-flame.vercel.app/",
       },
     },
   ];
